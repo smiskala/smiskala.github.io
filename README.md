@@ -2,7 +2,7 @@ Sofia Miskala-Dinc
 ================================
 University of Maryland, College Park
 Contact: [smiskala@umd.edu](smiskala@umd.edu)
-*View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
+
 
 Let's get the whole "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:
 
