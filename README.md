@@ -1,1 +1,0 @@
-# smiskala.github.io
