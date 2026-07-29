@@ -1,5 +1,4 @@
-Sofia Miskala-Dinc
-================================
+
 University of Maryland, College Park
 
 Contact: smiskala@umd.edu
